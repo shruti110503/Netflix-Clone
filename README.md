@@ -10,8 +10,8 @@ A simple Netflix landing page clone built using React.
 - Footer with useful links
 
 ## Technologies Used
-- **React**: Component-based UI development
-- **CSS**: Styling and layout (Flexbox, Grid, animations)
+- **React/ NextJs**: Component-based UI development
+- **Tailwind CSS**: Styling and layout (Flexbox, Grid, animations)
 - **JavaScript (ES6+)**: Interactive elements (FAQ toggle, form validation, etc.)
 
 ## Setup and Installation

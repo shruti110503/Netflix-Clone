@@ -46,5 +46,5 @@ Feel free to contribute by forking the repository and submitting a pull request.
 This project is licensed under the MIT License.
 
 ## Contact
-For any queries, reach out at [your email or GitHub profile].
+For any queries, reach out at shrutishukla297@gmail.com.
 
